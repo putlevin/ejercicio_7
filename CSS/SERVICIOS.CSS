@@ -1,0 +1,76 @@
+body{
+    margin-top: 10%;
+    background: rgb(107,74,139);
+background: linear-gradient(300deg, rgba(107,74,139,0.3857142857142857) 47%, rgba(14,246,246,0.37857142857142856) 98%);
+}
+.Pie{
+    background-color: lightyellow;
+    
+}
+.iconos{
+    margin: 5px;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+ul > li{
+    margin: auto;
+    font-size: 30px;
+}
+ul li a:hover{
+    color: aliceblue;
+}
+li{
+    margin: auto;
+}
+iframe{
+    margin-left: 25%;
+}
+form{
+    margin-left: 120px;
+}
+.im1{
+    margin-left: 10%;
+}
+#Contacto{
+    margin-left: 120px;
+}
+h1::first-line {
+    color: gold;
+}
+h1::first-letter{
+    color: goldenrod;
+}
+#logo{
+        font-size: 15px;
+        text-align: center;
+        padding-top: 50px;
+        background-color: gold;
+        color: aliceblue;
+        height: 350px;
+        background: rgb(0,212,255);
+        background: linear-gradient(274deg, rgba(0,212,255,1) 0%, rgba(237,206,23,1) 49%, rgba(0,212,255,1) 100%);
+    }
+p{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    margin-left: 25%;
+}
+#footer{
+    text-align: auto;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#red{
+    text-align: left;
+}
+#h3{
+    background-color: lightcyan;
+    margin-left: 50%;
+    font-size: 70px;
+}
